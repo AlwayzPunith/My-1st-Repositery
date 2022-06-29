@@ -1,5 +1,5 @@
 if (a>0) {
   console.log("a is greater");
 } else {
-  console.log("b is greater");
+  console.log("a equal to zero");
 }
